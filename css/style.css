@@ -3894,3 +3894,13 @@ padding-left: 4px;
     font-size: 20px;
 }
  }
+
+ @media screen and (max-width: 768px) {
+  .ideal {
+    position: absolute;
+    top: 1em;
+    left: 4em;
+    font-weight: bold;
+    font-size: 20px;
+}
+ }
