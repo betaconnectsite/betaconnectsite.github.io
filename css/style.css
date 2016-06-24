@@ -3881,3 +3881,16 @@ padding-left: 4px;
 
 }
 
+ @media screen and (min-width: 768px) {
+  .spec{
+    visibility: hidden;
+    display: none !important;  
+  }
+  .ideal {
+    position: absolute;
+    top: 1em;
+    left: 4em;
+    font-weight: bold;
+    font-size: 20px;
+}
+ }
